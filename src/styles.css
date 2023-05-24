@@ -1,0 +1,19 @@
+.navbar {
+    background-color: orange;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar li {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .graphContainer {
+    margin-top: 20px;
+  }

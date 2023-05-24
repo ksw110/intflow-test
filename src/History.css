@@ -1,0 +1,93 @@
+.hand-input{
+  border-radius: 15px;
+  margin-left: 1000px;
+  margin-top: 30px;
+  background-color: white;
+  float: right;
+}
+.abs{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.select-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-container input {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .select-container {
+  display: flex;
+  align-items: center;
+  background-color: rgb(207, 204, 204);
+  padding: 15px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.input-container input {
+  margin-right: 5px;
+}
+.select-container select {
+    width: 100px; 
+    height: 30px;
+    margin-bottom: 10px;
+  }
+.p{
+    margin-top: 30px;
+}
+.initialization{
+    margin-left: 600px;
+    border-radius: 15px;
+    background-color: rgb(46, 44, 44);
+    color:white;
+}
+.container {
+    display: flex;
+    
+    border-top: 1px solid #000;
+    
+    padding: 10px 0;
+  }
+  
+  .label {
+    flex: 1;
+    text-align: center;
+    padding: 2px;
+  }
+  .dataaa{
+    margin-left: 100px;
+  }
+  #num1{
+    margin-left: 190px;
+  }
+  #num2{
+    margin-left: 145px;
+  }
+  #num3{
+    margin-left: 145px;
+  }
+  #num4{
+    margin-left: 175px;
+  }
+  .container {
+    width: 1175px;
+  }
+  
+  .container td {
+    padding-left: 85px;
+  padding-right: 80px;
+    border-bottom: 1px solid #000;
+    
+  }
